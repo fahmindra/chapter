@@ -1,16 +1,16 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
-title: Jekyll Chapterbook
-longtitle: Jekyll Chapterbook Theme
-author: Jason Grimes
-email: jason@grimesit.com
+title: Chapter
+longtitle: Chapterbook
+author: Fahmi Indra Setiawan
+email: fahmindra@gmail.com
 description: >
-  A Jekyll theme based on GitBook with support for chapters and parts.
+  Book chapter
 
 # If baseurl_canonical is set, 
 # a <link rel="canonical"> tag will be added to the head of each page,
 # to disambiguate links for search engines.
-baseurl_canonical: https://jasongrimes.github.io/jekyll-chapterbook
+baseurl_canonical: https://fahmindra.github.io/chapter
 
 # A copyright notice will be shown at the bottom of each page,
 # with the current year and the author name.
@@ -18,7 +18,7 @@ baseurl_canonical: https://jasongrimes.github.io/jekyll-chapterbook
 # Set a start_year to have the copyright render as "start_year - current_year" (if the years are different)
 # Set copyright: false to disable.
 copyright:
-  start_year: 2023
+  start_year: 2026
   url: /book.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
@@ -48,7 +48,7 @@ sidebar_nav_bottom:
 - label: Draft outline
   url: /outline.html
 - label: Fork at GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook/fork
+  url: https://github.com/fahmindra/chapter/fork
 
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
@@ -58,7 +58,7 @@ bottom_nav:
 - label: Book
   url: /book.html
 - label: GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook
+  url: https://github.com/fahmindra/chapter
 - label: Privacy
   url: /privacy.html
 
@@ -84,7 +84,7 @@ sidebar_toc:
 # Show a link to edit each page on GitHub
 github_edit:
   enabled: true
-  base_url: https://github.com/jasongrimes/jekyll-chapterbook/edit/master/
+  base_url: https://github.com/fahmindra/chapter/edit/master/
 
 # Custom CSS
 extra_css:
