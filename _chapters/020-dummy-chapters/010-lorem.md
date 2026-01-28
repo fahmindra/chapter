@@ -1,7 +1,7 @@
 ---
 slug: dummy
-title: Data Univariat dan Multivariat
-abstract: Menjelaskan konsep dasar dan perbedaan antara data univariat dan multivariat, baik kategorikal maupun kuantitatif, dalam konteks analisis data.
+title: Lorem ipsum
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
 ## Pengantar Matematika untuk Data Science
@@ -20,7 +20,7 @@ Semoga Anda menikmati proses belajar ini, dan jika ada pertanyaan, jangan ragu u
 
 Pada era digital saat ini, data telah menjadi bagian tak terpisahkan dari kehidupan kita. Setiap hari, kita menghasilkan dan mengonsumsi data dalam berbagai bentuk—mulai dari transaksi keuangan, informasi media sosial, hingga hasil pengukuran sensor di dunia industri. Namun, untuk bisa memahami dan memanfaatkan data dengan baik, kita membutuhkan alat yang tepat. Di sinilah peran matematika dalam data science menjadi sangat penting.
 
-**[![dos-ba1325e501b87e3ea6de69ad3cee49a820250812134758.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-ba1325e501b87e3ea6de69ad3cee49a820250812134758.jpeg)]("dos-ba1325e501b87e3ea6de69ad3cee49a820250812134758.jpeg")**
+**![dos-ba1325e501b87e3ea6de69ad3cee49a820250812134758.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-ba1325e501b87e3ea6de69ad3cee49a820250812134758.jpeg)**
 
 Data science adalah bidang yang menggabungkan berbagai disiplin, seperti matematika, statistika, dan ilmu komputer untuk mengekstraksi wawasan dari data. Semua ilmu tersebut kemudian ditopang oleh _domain knowledge_, yakni pemahaman mendalam tentang konteks bisnis, industri, atau masalah nyata yang sedang dianalisis.
 
@@ -45,7 +45,7 @@ Statistika adalah cabang matematika yang digunakan untuk mengumpulkan, menganali
 **Contoh Penerapan**  
 Statistika dapat digunakan pada kasus perusahaan yang ingin mengevaluasi efektivitas strategi pemasaran baru mereka, memastikan bahwa hal tersebut dapat meningkatkan penjualan atau tidak. Caranya, mereka perlu mengumpulkan data penjualan sebelum dan sesudah kampanye pemasaran. Kemudian, kedua data tersebut dibandingkan, lalu menggunakan uji-t untuk melihat bahwa ada perbedaan signifikan antara kedua periode perubahan penjualan tersebut.
 
-[![dos-ad0f352da65443f51ff310f7c22ef0b520250812134757.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-ad0f352da65443f51ff310f7c22ef0b520250812134757.jpeg)]("dos-ad0f352da65443f51ff310f7c22ef0b520250812134757.jpeg")
+![dos-ad0f352da65443f51ff310f7c22ef0b520250812134757.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-ad0f352da65443f51ff310f7c22ef0b520250812134757.jpeg)
 
 Gambar di atas menunjukkan proses pengambilan keputusan dalam statistik melalui uji hipotesis. Jika hasil uji jatuh dalam daerah penolakan H₀ (area yang diarsir), kesimpulannya adalah strategi baru berhasil meningkatkan penjualan secara statistik. Namun jika tidak, berarti belum ada bukti yang cukup kuat untuk menyatakan bahwa strategi tersebut efektif.
 
@@ -60,7 +60,7 @@ Probabilitas adalah cabang matematika yang berkaitan dengan peluang suatu kejadi
 **Contoh Penerapan**  
 Probabilitas biasa digunakan dalam memprediksi cuaca. Perhatikan gambar hari Rabu dengan peluang hujan 90%.
 
-[![dos-b4509bcf1390f8a67b3bf055aad4ea0420250812134757.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-b4509bcf1390f8a67b3bf055aad4ea0420250812134757.jpeg)]("dos-b4509bcf1390f8a67b3bf055aad4ea0420250812134757.jpeg")
+![dos-b4509bcf1390f8a67b3bf055aad4ea0420250812134757.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-b4509bcf1390f8a67b3bf055aad4ea0420250812134757.jpeg)
 
 Jika memiliki acara di luar ruangan, Anda harus bersiap dengan payung atau jas hujan. Namun, jika hari Sabtu peluangnya hanya 20%, hujan kemungkinan kecil terjadi.
 
@@ -81,7 +81,7 @@ Dalam kompresi gambar, principal component analysis (PCA) digunakan untuk mengur
 
 Salah satu ilustrasi PCA yang paling sederhana adalah untuk mengurangi dimensi dari sebuah data 3D menjadi 2D tanpa kehilangan representasi dari datanya. 
 
-[![dos-261caf3139cab0e1c01e6d200b9c27d020250812134758.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-261caf3139cab0e1c01e6d200b9c27d020250812134758.jpeg)]("dos-261caf3139cab0e1c01e6d200b9c27d020250812134758.jpeg")
+![dos-261caf3139cab0e1c01e6d200b9c27d020250812134758.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-261caf3139cab0e1c01e6d200b9c27d020250812134758.jpeg)
 
 Gambar di atas menunjukkan dua bagian.
 
@@ -103,7 +103,7 @@ Kalkulus adalah cabang matematika yang mempelajari perubahan nilai dalam suatu f
 **Contoh Penerapan**  
 Dalam proses pelatihan model seperti neural network, gradient descent digunakan sebagai algoritma untuk menyesuaikan bobot model agar meminimalkan kesalahan (error/loss).
 
-#### **[![dos-26a8b9db95b352f1db30934ce66446d220250812134758.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-26a8b9db95b352f1db30934ce66446d220250812134758.jpeg)]("dos-26a8b9db95b352f1db30934ce66446d220250812134758.jpeg")**
+#### **![dos-26a8b9db95b352f1db30934ce66446d220250812134758.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-26a8b9db95b352f1db30934ce66446d220250812134758.jpeg)**
 
 Gradient descent menggunakan konsep turunan dalam kalkulus untuk mengetahui arah perubahan bobot yang paling optimal sehingga model dapat belajar secara lebih efisien. Dengan mengikuti arah tersebut, model memperbarui bobotnya secara bertahap sampai mencapai titik dengan error terkecil.
 
@@ -155,7 +155,7 @@ Data kategorikal sering kali digunakan untuk mengelompokkan objek atau individu 
 *   **Status Pernikahan**: Menikah, Lajang, Cerai.
 *   **Jenis Kendaraan**: Mobil, Motor, Sepeda.
 
-[![dos-eb769a4517f7cdea059d7d738f545abf20250812135700.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-eb769a4517f7cdea059d7d738f545abf20250812135700.jpeg)]("dos-eb769a4517f7cdea059d7d738f545abf20250812135700.jpeg")
+![dos-eb769a4517f7cdea059d7d738f545abf20250812135700.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-eb769a4517f7cdea059d7d738f545abf20250812135700.jpeg)
 
 Sekarang, bayangkan Anda memiliki dataset berisi metode pembayaran yang digunakan oleh pelanggan, seperti tunai, kartu kredit, dan _e-wallet_. Anda takkan bisa menghitung rata-rata dari kategori ini, tetapi kita bisa melihat seberapa sering masing-masing kategori muncul. Dalam hal ini, analisis frekuensi atau persentase akan lebih berguna daripada metode statistik yang digunakan untuk data numerik.
 
@@ -165,7 +165,7 @@ Coba bayangkan Anda sedang bekerja dengan dataset yang berisi informasi tentang 
 
 Berbeda dengan data kategorikal, data kuantitatif atau numerik adalah data berbentuk angka yang bisa diukur atau dihitung, yakni pendapatan, umur, berat badan, dan sebagainya. Data kuantitatif memungkinkan kita untuk melakukan operasi matematika, seperti penjumlahan, pengurangan, atau perhitungan rata-rata. Sebagai contoh, kita bisa menghitung rata-rata usia pelanggan atau total pengeluaran pelanggan dalam sebulan. Dengan demikian, data kuantitatif memberikan kita informasi yang lebih mendalam untuk membangun model prediktif.
 
-[![dos-c1e9b737e9967fcc04ecbc9e95dbd3df20250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-c1e9b737e9967fcc04ecbc9e95dbd3df20250812135701.jpeg)]("dos-c1e9b737e9967fcc04ecbc9e95dbd3df20250812135701.jpeg")
+![dos-c1e9b737e9967fcc04ecbc9e95dbd3df20250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-c1e9b737e9967fcc04ecbc9e95dbd3df20250812135701.jpeg)
 
 Berikut adalah contoh dari data kuantitatif.
 
@@ -181,7 +181,7 @@ Saat Anda menganalisis data pelanggan, tentu data-data tersebut bisa kita hitung
 
 Setelah kita memahami klasifikasi data berdasarkan sifat dan jumlah variabelnya, kini saatnya menggali lebih dalam dengan mengetahui data berdasarkan level pengukurannya, yaitu data nominal, ordinal, interval, dan rasio. Dalam analisis data, level pengukuran menentukan cara data dapat diklasifikasikan dan dianalisis.
 
-[![dos-5789ca312e234cebfa0781b63ce377d820250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-5789ca312e234cebfa0781b63ce377d820250812135701.jpeg)]("dos-5789ca312e234cebfa0781b63ce377d820250812135701.jpeg")
+![dos-5789ca312e234cebfa0781b63ce377d820250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-5789ca312e234cebfa0781b63ce377d820250812135701.jpeg)
 
 Masing-masing jenis data ini memiliki karakteristik yang sangat penting untuk dipahami. Pasalnya, cara kita menganalisis dan menginterpretasikan data akan sangat bergantung pada jenis data yang dimiliki. 
 
@@ -189,7 +189,7 @@ Masing-masing jenis data ini memiliki karakteristik yang sangat penting untuk di
 
 Data nominal adalah jenis data kategorikal yang paling dasar. Data ini hanya digunakan untuk mengidentifikasi atau mengelompokkan objek, individu, atau variabel dalam kategori tertentu, tanpa ada urutan atau ranking di antara kategori-kategori tersebut. Dengan kata lain, setiap kategori dalam data nominal setara dan tidak ada kategori yang lebih tinggi atau lebih rendah dari lainnya.
 
-[![dos-2b684fb5bc19d9f02f3bb6745f14436420250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-2b684fb5bc19d9f02f3bb6745f14436420250812135701.jpeg)]("dos-2b684fb5bc19d9f02f3bb6745f14436420250812135701.jpeg")
+![dos-2b684fb5bc19d9f02f3bb6745f14436420250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-2b684fb5bc19d9f02f3bb6745f14436420250812135701.jpeg)
 
 Berikut adalah contoh data yang termasuk dalam data nominal.
 
@@ -220,7 +220,7 @@ Data ordinal sering kita temui dalam kehidupan sehari-hari. Misalnya, ketika men
 
 Kendati ada urutan yang jelas (sangat puas → puas → tidak puas), kita tidak dapat mengukur secara pasti seberapa besar perbedaan antara satu kategori dengan kategori lainnya.
 
-[![dos-f4b9b7c7542a95abe751afe352d0b73b20250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-f4b9b7c7542a95abe751afe352d0b73b20250812135701.jpeg)]("dos-f4b9b7c7542a95abe751afe352d0b73b20250812135701.jpeg")
+![dos-f4b9b7c7542a95abe751afe352d0b73b20250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-f4b9b7c7542a95abe751afe352d0b73b20250812135701.jpeg)
 
 Berikut adalah contoh data yang termasuk dalam data ordinal.
 
@@ -238,7 +238,7 @@ Berbeda dengan data ordinal, data interval memiliki urutan jelas dan jarak yang 
 
 Dalam data interval, kita bisa melakukan operasi penjumlahan dan pengurangan. Artinya, data interval memungkinkan kita untuk menghitung selisih antara kategori-kategori tersebut. Hal ini membuat perbedaan data interval dengan data numerik semakin jelas.
 
-[![dos-d99d7f99f1c6534d6af4ee79cd91238320250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-d99d7f99f1c6534d6af4ee79cd91238320250812135701.jpeg)]("dos-d99d7f99f1c6534d6af4ee79cd91238320250812135701.jpeg")
+![dos-d99d7f99f1c6534d6af4ee79cd91238320250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-d99d7f99f1c6534d6af4ee79cd91238320250812135701.jpeg)
 
  Berikut adalah contoh data yang termasuk data interval.
 
@@ -251,7 +251,7 @@ Contoh data interval sangat umum ditemukan dalam pengukuran suhu atau tanggal. B
 
 Data rasio adalah jenis data yang memiliki semua karakteristik data interval, tetapi dengan tambahan nol mutlak. Nol mutlak berarti tidak adanya suatu atribut yang diukur. Dengan demikian, perhitungan rasio antara nilai-nilai dalam data ini menjadi bermakna.
 
-[![dos-ea08541eed850451966e8ff1b45f1af320250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-ea08541eed850451966e8ff1b45f1af320250812135701.jpeg)]("dos-ea08541eed850451966e8ff1b45f1af320250812135701.jpeg")
+![dos-ea08541eed850451966e8ff1b45f1af320250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-ea08541eed850451966e8ff1b45f1af320250812135701.jpeg)
 
 Berikut adalah contoh data yang termasuk data rasio.
 
@@ -267,7 +267,7 @@ Data rasio memungkinkan semua operasi matematika dasar, termasuk perkalian dan p
 
 Dalam data science, kita sering berhadapan dengan dataset yang berisi berbagai informasi. Namun, tidak semua analisis memerlukan jumlah variabel yang sama. Beberapa analisis mungkin hanya berfokus pada satu variabel, sementara lainnya memeriksa hubungan antara banyak variabel sekaligus. 
 
-[![dos-bd0f5c2f51aa15eb6f9797f5cbfc0b1220250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-bd0f5c2f51aa15eb6f9797f5cbfc0b1220250812135701.jpeg)]("dos-bd0f5c2f51aa15eb6f9797f5cbfc0b1220250812135701.jpeg")
+![dos-bd0f5c2f51aa15eb6f9797f5cbfc0b1220250812135701.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-bd0f5c2f51aa15eb6f9797f5cbfc0b1220250812135701.jpeg)
 
 Oleh karena itu, data dapat dikategorikan berdasarkan jumlah variabel yang dianalisis, antara lain data univariat dan data multivariat.
 
@@ -293,7 +293,7 @@ Dengan kata lain, data univariat hanya berfokus pada satu variabel, sedangkan da
 
 Dalam analisisnya, kita bisa menggunakan _scatter plot_ untuk melihat hubungan antara tinggi dan berat atau menggunakan regresi linear dalam memahami hubungan antara variabel-variabel tersebut.
 
-[![dos-5fb32856b2c6abe0922194a25c9eea9320250812135700.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-5fb32856b2c6abe0922194a25c9eea9320250812135700.jpeg)]("dos-5fb32856b2c6abe0922194a25c9eea9320250812135700.jpeg")
+![dos-5fb32856b2c6abe0922194a25c9eea9320250812135700.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-5fb32856b2c6abe0922194a25c9eea9320250812135700.jpeg)
 
 Berikut adalah contoh penggunaan dari data multivariat.
 
@@ -345,7 +345,7 @@ Dari tabel ini, kita dapat dengan cepat melihat bahwa kopi adalah minuman yang p
 
 Tabel frekuensi sering digunakan dalam analisis eksplorasi data karena sangat sederhana, tetapi cukup informatif. Kita juga bisa menambahkan persentase pada tabel untuk melihat distribusi data dalam skala yang lebih proporsional.
 
-[![dos-cfa5b0b199760c23991f866823325a2920251215140937.png](https://assets.cdn.dicoding.com/original/academy/dos-cfa5b0b199760c23991f866823325a2920251215140937.png)]("dos-cfa5b0b199760c23991f866823325a2920251215140937.png")
+![dos-cfa5b0b199760c23991f866823325a2920251215140937.png](https://assets.cdn.dicoding.com/original/academy/dos-cfa5b0b199760c23991f866823325a2920251215140937.png)
 
 Contoh tabel frekuensi yang dilengkapi persentase.
 
@@ -444,7 +444,7 @@ Mari kita ambil contoh kasus seorang pemilik restoran yang ingin memahami jenis 
 
 Jika data ini disajikan dalam bentuk bar chart, pemilik restoran dapat dengan cepat melihat bahwa minuman dan makanan cepat saji adalah kategori paling populer, sedangkan _dessert_ memiliki jumlah pesanan paling sedikit. 
 
-[![dos-43539d528f7a96a1a36e9a34c22e87af20250812140829.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-43539d528f7a96a1a36e9a34c22e87af20250812140829.jpeg)]("dos-43539d528f7a96a1a36e9a34c22e87af20250812140829.jpeg")
+![dos-43539d528f7a96a1a36e9a34c22e87af20250812140829.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-43539d528f7a96a1a36e9a34c22e87af20250812140829.jpeg)
 
 Dengan informasi ini, ia bisa memutuskan untuk meningkatkan promosi pada menu _dessert_ atau menambah variasi dalam menu makanan sehat.
 
@@ -468,7 +468,7 @@ Apabila informasi di atas disajikan dalam bentuk tabel, hasilnya berikut.
 
 Dalam bentuk tabel, data ini mungkin sulit untuk ditafsirkan dengan cepat. Sekarang, coba kita sajikan dalam bentuk pie chart.
 
-[![dos-f87d9f777098fec3b4e261c851a0142c20250812140829.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-f87d9f777098fec3b4e261c851a0142c20250812140829.jpeg)]("dos-f87d9f777098fec3b4e261c851a0142c20250812140829.jpeg")
+![dos-f87d9f777098fec3b4e261c851a0142c20250812140829.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-f87d9f777098fec3b4e261c851a0142c20250812140829.jpeg)
 
 Namun, ketika disajikan dalam pie chart, manajer supermarket bisa langsung melihat bahwa _e-wallet_ mendominasi metode pembayaran dengan 50% dari total transaksi. Informasi ini bisa digunakan untuk meningkatkan promosi melalui _cashback_ pada pembayaran dengan _e-wallet_ atau menambahkan metode pembayaran digital lainnya.
 
@@ -488,7 +488,7 @@ Sebagai contoh, bayangkan sebuah perusahaan _e-commerce_ ingin mengidentifikasi
 
 Jika data ini hanya disajikan dalam tabel, mungkin sulit untuk mengetahui kategori yang harus diprioritaskan dalam perbaikan layanan. Namun, dengan Pareto chart, kita bisa melihat bahwa hanya dua kategori utama, yaitu "Keterlambatan Pengiriman" dan "Produk Tidak Sesuai" yang menyumbang hampir 75% dari total keluhan.
 
-[![dos-76586565cf573788c3f86eb348d9846520250812140829.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-76586565cf573788c3f86eb348d9846520250812140829.jpeg)]("dos-76586565cf573788c3f86eb348d9846520250812140829.jpeg")
+![dos-76586565cf573788c3f86eb348d9846520250812140829.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-76586565cf573788c3f86eb348d9846520250812140829.jpeg)
 
 Melalui _insight_ ini, perusahaan dapat segera fokus pada meningkatkan kecepatan pengiriman dan memastikan produk sesuai dengan deskripsi di laman web–karena perbaikan dalam dua aspek ini akan menyelesaikan mayoritas keluhan pelanggan.
 
@@ -524,7 +524,7 @@ Data kuantitatif adalah jenis data yang bisa dihitung dan diukur. Data ini berbe
 
 Data kuantitatif univariat berarti data yang bersifat kuantitatif dan hanya memiliki **satu variabel** atau satu jenis pengamatan. Dalam materi kali ini, data-data yang disajikan dan dijelaskan hanya yang bersifat univariat atau satu variabel.
 
-[![dos-a36b2a2196ed9d21fcb374d6fe11263220250812143324.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-a36b2a2196ed9d21fcb374d6fe11263220250812143324.jpeg)]("dos-a36b2a2196ed9d21fcb374d6fe11263220250812143324.jpeg")
+![dos-a36b2a2196ed9d21fcb374d6fe11263220250812143324.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-a36b2a2196ed9d21fcb374d6fe11263220250812143324.jpeg)
 
 Berbeda dengan data kategorikal yang hanya mengelompokkan objek dalam kategori, data kuantitatif memungkinkan kita melakukan berbagai perhitungan, seperti mencari rata-rata, mengukur penyebaran data, serta memahami pola distribusi. Dalam analisis data, pemahaman mengenai ukuran pemusatan, ukuran penyebaran, standardisasi, normalisasi, serta distribusi data menjadi sangat penting.
 
@@ -548,7 +548,7 @@ Setiap ukuran memiliki kegunaan masing-masing, tergantung pada sifat data dan tu
 
 Mean atau rata-rata adalah **jumlah semua nilai dalam dataset dibagi dengan jumlah total data**. Mean sangat berguna ketika kita ingin mengetahui nilai rata-rata dari sekumpulan angka. Mean adalah ukuran pemusatan yang paling sering digunakan pada analisis data karena memberikan gambaran umum tentang nilai tipikal dalam dataset.
 
-[![dos-5797c827f166b50235ade7db7c58bfe020250812143605.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-5797c827f166b50235ade7db7c58bfe020250812143605.jpeg)]("dos-5797c827f166b50235ade7db7c58bfe020250812143605.jpeg")
+![dos-5797c827f166b50235ade7db7c58bfe020250812143605.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-5797c827f166b50235ade7db7c58bfe020250812143605.jpeg)
 
 Ketika seseorang berbicara tentang nilai rata-rata suatu data, mereka biasanya merujuk pada **mean**. Sebagai contoh, bayangkan seorang guru ingin mengetahui **rata-rata nilai ujian dari 5 siswa** di kelasnya. Nilai mereka adalah sebagai berikut: **80, 85, 90, 75, dan 95**.
 
@@ -558,7 +558,7 @@ Untuk menghitung mean, kita perlu menjumlahkan semua nilai terlebih dahulu.
 
 Kemudian, kita membagi jumlah total nilai tersebut dengan jumlah siswa.
 
-[![dos-a4024983a311b82e55b838a605f74a5320250812143605.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-a4024983a311b82e55b838a605f74a5320250812143605.jpeg)]("dos-a4024983a311b82e55b838a605f74a5320250812143605.jpeg")
+![dos-a4024983a311b82e55b838a605f74a5320250812143605.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-a4024983a311b82e55b838a605f74a5320250812143605.jpeg)
 
 Jadi, rata-rata nilai ujian siswa di kelas tersebut adalah **85**.
 
@@ -572,7 +572,7 @@ Jika ada satu nilai sangat besar atau sangat kecil dibandingkan yang lain, rata-
 
 Median adalah **nilai yang berada di tengah dalam urutan dataset** (dari yang terkecil ke terbesar). Perhitungan median ditentukan dari jumlah data yang dimiliki, ganjil atau genap. Jika kita memiliki dataset dengan jumlah angka **ganjil**, median adalah angka yang berada tepat di tengah. Namun, jika jumlah angka **genap**, median dihitung sebagai rata-rata dari dua angka tengah.
 
-**[![dos-3b77353a2cf70b486a710a9a59b56dc020250812143606.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-3b77353a2cf70b486a710a9a59b56dc020250812143606.jpeg)]("dos-3b77353a2cf70b486a710a9a59b56dc020250812143606.jpeg")**
+**![dos-3b77353a2cf70b486a710a9a59b56dc020250812143606.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-3b77353a2cf70b486a710a9a59b56dc020250812143606.jpeg)**
 
 Mari kita simulasikan. Katakanlah kita memiliki dataset berisi nilai siswa sebagai berikut.
 
@@ -586,7 +586,7 @@ Contoh lain, anggap saja kita memiliki dataset berisi nilai siswa yang terdiri d
 
 Jika data tersebut genap (terdiri dari enam angka), median dihitung dengan mengambil rata-rata dari dua angka di tengah.
 
-[![dos-bfc019343267ad278ba44ae705a77bf120250812143605.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-bfc019343267ad278ba44ae705a77bf120250812143605.jpeg)]("dos-bfc019343267ad278ba44ae705a77bf120250812143605.jpeg")
+![dos-bfc019343267ad278ba44ae705a77bf120250812143605.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-bfc019343267ad278ba44ae705a77bf120250812143605.jpeg)
 
 Jadi, median dalam dataset ini adalah **87.5**.
 
@@ -652,7 +652,7 @@ Beberapa ukuran penyebaran yang umum digunakan adalah _**range**_, _**variance*
 
 Range (jangkauan) adalah ukuran penyebaran paling sederhana, yang menunjukkan perbedaan antara nilai terbesar dan nilai terkecil dalam dataset. Dengan kata lain, range berarti selisih antara nilai maksimum dan nilai minimum dalam dataset.
 
-[![dos-2359a9dab4bc251c45e5334b03bba4f420250905140438.png](https://assets.cdn.dicoding.com/original/academy/dos-2359a9dab4bc251c45e5334b03bba4f420250905140438.png)]("dos-2359a9dab4bc251c45e5334b03bba4f420250905140438.png")
+![dos-2359a9dab4bc251c45e5334b03bba4f420250905140438.png](https://assets.cdn.dicoding.com/original/academy/dos-2359a9dab4bc251c45e5334b03bba4f420250905140438.png)
 
 Sebagai contoh, misalkan kita memiliki data nilai ujian siswa seperti berikut.
 
@@ -676,9 +676,9 @@ Jika range hanya melihat dua titik ekstrem, variance (variansi) dan standard dev
 
 Variansi menunjukkan ukuran **seberapa tersebar/jauh data atau nilai pada dataset dari mean (rata-rata)** dalam bentuk kuadrat, sedangkan **standar deviasi adalah akar kuadrat dari varians** dan dinyatakan dalam satuan yang sama dengan data aslinya.
 
-[![dos-c3b2a8e730be6cde890a9213bd6d7e3b20250812144224.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-c3b2a8e730be6cde890a9213bd6d7e3b20250812144224.jpeg)]("dos-c3b2a8e730be6cde890a9213bd6d7e3b20250812144224.jpeg")
+![dos-c3b2a8e730be6cde890a9213bd6d7e3b20250812144224.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-c3b2a8e730be6cde890a9213bd6d7e3b20250812144224.jpeg)
 
-[![dos-8e8b243b9dd21f66569ae65c3581cd1120250812144224.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-8e8b243b9dd21f66569ae65c3581cd1120250812144224.jpeg)]("dos-8e8b243b9dd21f66569ae65c3581cd1120250812144224.jpeg")
+![dos-8e8b243b9dd21f66569ae65c3581cd1120250812144224.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-8e8b243b9dd21f66569ae65c3581cd1120250812144224.jpeg)
 
 Standar deviasi adalah salah satu ukuran penyebaran **paling umum** dalam statistik. Jika standar deviasi **rendah**, berarti data cenderung **berdekatan dengan mean**. Jika standar deviasi **tinggi**, berarti data lebih tersebar dari mean.
 
@@ -695,7 +695,7 @@ Meskipun mean kedua kelas sama, kelas B memiliki **standar deviasi lebih besar**
 
 IQR adalah ukuran penyebaran yang lebih tahan terhadap outlier karena hanya melihat **rentang antara kuartil pertama (Q1) dan kuartil ketiga (Q3)** dalam urutan data. Sederhananya, IQR dihitung sebagai selisih antara kuartil ketiga (Q3) dan kuartil pertama (Q1) dengan rumus sebagai berikut.
 
-[![dos-c014749350eaf16238e8d8b16740410620250812144224.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-c014749350eaf16238e8d8b16740410620250812144224.jpeg)]("dos-c014749350eaf16238e8d8b16740410620250812144224.jpeg")
+![dos-c014749350eaf16238e8d8b16740410620250812144224.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-c014749350eaf16238e8d8b16740410620250812144224.jpeg)
 
 Sebagai contoh, kita memiliki data yang sudah diurutkan seperti ini.
 
@@ -711,7 +711,7 @@ Dengan data tersebut, hal berikut dapat diketahui.
 
 _Coefficient of Variation_ atau CV mengukur **seberapa besar penyebaran relatif dibandingkan dengan mean** dalam bentuk persentase.
 
-[![dos-6be9d5685dd086fce4755915df16a59820250812144224.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-6be9d5685dd086fce4755915df16a59820250812144224.jpeg)]("dos-6be9d5685dd086fce4755915df16a59820250812144224.jpeg")
+![dos-6be9d5685dd086fce4755915df16a59820250812144224.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-6be9d5685dd086fce4755915df16a59820250812144224.jpeg)
 
 CV digunakan ketika kita ingin membandingkan variabilitas dua dataset dengan mean yang sangat berbeda. Contoh dari penggunaan CV adalah seperti pada kasus berikut.
 
@@ -745,7 +745,7 @@ Ada beberapa metode yang umum digunakan untuk melakukan normalisasi data, sepert
 
 Z-Score adalah metode standardisasi yang menyatakan seberapa jauh sebuah nilai dari rata-rata (mean) dalam satuan standar deviasi. Dengan cara ini, rata-rata data akan menjadi 0 dan standar deviasi akan menjadi 1.
 
-[![dos-0e21e724b5600db6f506c75e35fed0cc20250812144927.png](https://assets.cdn.dicoding.com/original/academy/dos-0e21e724b5600db6f506c75e35fed0cc20250812144927.png)]("dos-0e21e724b5600db6f506c75e35fed0cc20250812144927.png")
+![dos-0e21e724b5600db6f506c75e35fed0cc20250812144927.png](https://assets.cdn.dicoding.com/original/academy/dos-0e21e724b5600db6f506c75e35fed0cc20250812144927.png)
 
 Sebagai contoh, jika suatu nilai memiliki **Z-Score = 2**, itu berarti nilainya **2 standar deviasi di atas rata-rata**. Jika **Z-Score = -1.5**, nilai tersebut **1.5 standar deviasi di bawah rata-rata**.
 
@@ -759,7 +759,7 @@ Namun, jika dataset memiliki outlier (nilai ekstrem yang sangat besar atau sanga
 
 Min-Max Scaling adalah teknik normalisasi data yang mengonversi semua nilai dalam rentang tertentu, biasanya 0 hingga 1. Teknik ini berguna ketika kita ingin memastikan semua data memiliki skala yang sama tanpa mengubah distribusinya.
 
-[![dos-83a5082d8d83fa497b670773848ae5b920250812144756.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-83a5082d8d83fa497b670773848ae5b920250812144756.jpeg)]("dos-83a5082d8d83fa497b670773848ae5b920250812144756.jpeg")
+![dos-83a5082d8d83fa497b670773848ae5b920250812144756.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-83a5082d8d83fa497b670773848ae5b920250812144756.jpeg)
 
 Misalkan kita memiliki dataset tinggi badan siswa sebagai berikut.  
  **150 cm, 160 cm, 170 cm, 180 cm, 190 cm**.
@@ -769,7 +769,7 @@ Data di atas dapat diketahui sebagai berikut.
 1.  **Nilai minimum** dalam dataset = **150 cm**.
 2.  **Nilai maksimum** dalam dataset = **190 cm**.
 3.  Jika kita ingin menghitung Min-Max Scaling untuk **tinggi 180 cm**, hasilnya berikut.  
-    [![dos-696f80e49c333f86ad6e386dbe4c7faa20250812145101.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-696f80e49c333f86ad6e386dbe4c7faa20250812145101.jpeg)]("dos-696f80e49c333f86ad6e386dbe4c7faa20250812145101.jpeg")
+    ![dos-696f80e49c333f86ad6e386dbe4c7faa20250812145101.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-696f80e49c333f86ad6e386dbe4c7faa20250812145101.jpeg)
 
 Jadi, setelah normalisasi, **tinggi 180 cm memiliki nilai 0.75 dalam skala 0-1**.
 
@@ -781,7 +781,7 @@ Min-Max Scaling sangat berguna jika kita ingin membatasi data dalam rentang tert
 
 Berbeda dengan Z-Score dan Min-Max Scaling yang bisa terpengaruh oleh outlier, Robust Scaling menggunakan median dan interquartile range (IQR) untuk normalisasi. Karena median tidak dipengaruhi oleh nilai ekstrem, metode ini lebih stabil untuk dataset yang memiliki outlier.
 
-[![dos-ff3b29479a659fb6c0700cce6a06f27820250812144756.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-ff3b29479a659fb6c0700cce6a06f27820250812144756.jpeg)]("dos-ff3b29479a659fb6c0700cce6a06f27820250812144756.jpeg")
+![dos-ff3b29479a659fb6c0700cce6a06f27820250812144756.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-ff3b29479a659fb6c0700cce6a06f27820250812144756.jpeg)
 
 Mari kita ambil contoh. Misalkan kita memiliki dataset tinggi badan berikut:   
 **150, 160, 170, 180, 190, 200, 300**.
@@ -791,7 +791,7 @@ Data di atas dapat diketahui sebagai berikut.
 1.  **Median = 180 cm**.
 2.  **Q1 = 160 cm, Q3 = 200 cm**.
 3.  **IQR = 200 - 160 = 40**.
-4.  Jika kita menghitung nilai normalisasi untuk **tinggi 190 cm**, hasilnya berikut.[![dos-522338866ee71e95e179683667d5b6fd20250923100521.png](https://assets.cdn.dicoding.com/original/academy/dos-522338866ee71e95e179683667d5b6fd20250923100521.png)]("dos-522338866ee71e95e179683667d5b6fd20250923100521.png")
+4.  Jika kita menghitung nilai normalisasi untuk **tinggi 190 cm**, hasilnya berikut.![dos-522338866ee71e95e179683667d5b6fd20250923100521.png](https://assets.cdn.dicoding.com/original/academy/dos-522338866ee71e95e179683667d5b6fd20250923100521.png)
 
 Robust Scaling sangat cocok jika dataset memiliki outlier karena ia tidak terpengaruh oleh nilai ekstrem.
 
@@ -828,7 +828,7 @@ Distribusi data dapat berbentuk simetris (normal) atau tidak simetris (_skewed_)
 
 Distribusi normal adalah salah satu distribusi yang paling banyak ditemukan pada statistik dan sangat penting dalam analisis data. Distribusi ini sering disebut sebagai kurva lonceng atau _bell curve_ karena bentuknya yang menyerupai lonceng, dengan sebagian besar nilai data terpusat di sekitar rata-rata (mean) dan semakin sedikit nilai yang terletak jauh dari rata-rata tersebut. 
 
-[![dos-e903c7d3b9c75874d67689a92318924420250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-e903c7d3b9c75874d67689a92318924420250812150531.jpeg)]("dos-e903c7d3b9c75874d67689a92318924420250812150531.jpeg")
+![dos-e903c7d3b9c75874d67689a92318924420250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-e903c7d3b9c75874d67689a92318924420250812150531.jpeg)
 
 Dalam distribusi normal, data tersebar simetris di sekitar mean, artinya nilai yang lebih tinggi dan lebih rendah dari rata-rata memiliki kemungkinan hampir sama untuk muncul pada dataset. Semakin jauh dari mean, semakin sedikit jumlah data yang berada di area tersebut.
 
@@ -892,7 +892,7 @@ Dalam distribusi skewed, kita dapat melihat bahwa data tidak terdistribusi secar
 
 Skewness adalah ukuran dari **asimetri** distribusi data. Jika distribusi data lebih terpusat pada satu sisi dan memiliki ekor yang panjang di sisi lain, data tersebut dianggap **skewed**. Ada dua jenis distribusi skewed yang paling umum, yaitu **skewed positif** (_positive skew_ atau _right-skewed_) dan **skewed negatif** (_negative skew_ atau _left-skewed_).
 
-[![dos-292113d80c3250a4ca7ca777e698d49420250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-292113d80c3250a4ca7ca777e698d49420250812150531.jpeg)]("dos-292113d80c3250a4ca7ca777e698d49420250812150531.jpeg")
+![dos-292113d80c3250a4ca7ca777e698d49420250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-292113d80c3250a4ca7ca777e698d49420250812150531.jpeg)
 
 Memahami jenis distribusi skewed sangat penting dalam _data science_ karena data yang terdistribusi miring bisa memengaruhi analisis dan pemilihan model secara tepat. Misalnya, jika data skewed, kita mungkin perlu melakukan transformasi data (seperti _log transformation_) untuk membuat distribusi lebih mendekati distribusi normal sebelum menerapkan beberapa algoritma atau model statistik yang mengasumsikan distribusi normal.
 
@@ -946,7 +946,7 @@ Kurtosis dapat membantu kita memahami bahwa data kita memiliki lebih banyak nila
 
 Pada distribusi normal, kurtosis mendekati nilai 3 (angka tiga adalah standar kurtosis distribusi normal), yang dikenal dengan sebutan _mesokurtic_. Namun, distribusi data bisa memiliki kurtosis lebih tinggi (_leptokurtic_) atau kurtosis lebih rendah (_platykurtic_) tergantung pada bentuk distribusinya.
 
-[![dos-0f668a3c7aa2c369e6dc82bc7185be1d20250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-0f668a3c7aa2c369e6dc82bc7185be1d20250812150531.jpeg)]("dos-0f668a3c7aa2c369e6dc82bc7185be1d20250812150531.jpeg")
+![dos-0f668a3c7aa2c369e6dc82bc7185be1d20250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-0f668a3c7aa2c369e6dc82bc7185be1d20250812150531.jpeg)
 
 Kurtosis mengukur dua hal utama sebagai berikut.
 
@@ -961,7 +961,7 @@ Sebagaimana yang disebutkan sebelumnya, ada tiga jenis kurtosis utama untuk meng
 
 Mesokurtic adalah jenis distribusi dengan **kurtosis yang sama dengan distribusi normal**. Distribusi ini memiliki puncak moderat dan simetris. Data terdistribusi secara seimbang di sekitar rata-rata dengan sebagian besar data terletak di sekitar rata-rata dan semakin sedikit data yang terletak lebih jauh dari rata-rata. Distribusi normal itu sendiri adalah **mesokurtic**. 
 
-[![dos-46c9e9c1b00daec25a6afadd29b8773420250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-46c9e9c1b00daec25a6afadd29b8773420250812150531.jpeg)]("dos-46c9e9c1b00daec25a6afadd29b8773420250812150531.jpeg")
+![dos-46c9e9c1b00daec25a6afadd29b8773420250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-46c9e9c1b00daec25a6afadd29b8773420250812150531.jpeg)
 
 Misalnya, distribusi tinggi badan siswa di sekolah yang terdistribusi secara normal dan memiliki puncak yang moderat di sekitar rata-rata tinggi badan.  
 Berikut adalah beberapa karakteristik dari mesokurtic.
@@ -973,7 +973,7 @@ Berikut adalah beberapa karakteristik dari mesokurtic.
 #### Leptokurtic
 
 Leptokurtic adalah distribusi dengan **puncak yang tajam**, yakni sebagian besar data terkonsentrasi di sekitar rata-rata. Distribusi ini memiliki ekor lebih panjang atau lebih banyak data yang terletak jauh dari rata-rata sehingga distribusi terlihat lebih tajam di sekitar nilai tengahnya.  
-[![dos-75c2339db0acb17d4ccdc7250f5fed3320250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-75c2339db0acb17d4ccdc7250f5fed3320250812150531.jpeg)]("dos-75c2339db0acb17d4ccdc7250f5fed3320250812150531.jpeg")
+![dos-75c2339db0acb17d4ccdc7250f5fed3320250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-75c2339db0acb17d4ccdc7250f5fed3320250812150531.jpeg)
 
 Sebagai contoh, dalam sebuah ujian kelas, jika sebagian besar siswa mendapatkan nilai sangat dekat dengan rata-rata dan hanya sedikit siswa yang memiliki nilai ekstrem sangat tinggi atau rendah, distribusi nilai ujian tersebut bisa dikatakan leptokurtic.
 
@@ -989,7 +989,7 @@ Berikut adalah beberapa karakteristik dari leptokurtic.
 
 Platykurtic adalah distribusi dengan **puncak yang datar** dibandingkan distribusi normal. Dalam distribusi ini, data lebih tersebar merata dan tidak terkonsentrasi dengan banyak di sekitar rata-rata. Distribusi platykurtic memiliki ekor lebih pendek tipis, artinya data lebih banyak tersebar dan tidak banyak yang terpusat di sekitar rata-rata.
 
-[![dos-10502afca2aa0d1bc367bbe60ddf05ec20250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-10502afca2aa0d1bc367bbe60ddf05ec20250812150531.jpeg)]("dos-10502afca2aa0d1bc367bbe60ddf05ec20250812150531.jpeg")
+![dos-10502afca2aa0d1bc367bbe60ddf05ec20250812150531.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-10502afca2aa0d1bc367bbe60ddf05ec20250812150531.jpeg)
 
 Misalnya, distribusi **umur pensiun** di suatu negara. Sebagian besar orang pensiun pada usia sekitar **60–65 tahun**, tetapi ada beberapa orang pensiun lebih awal dan ada juga yang lebih lama. Ini bisa menghasilkan distribusi yang lebih datar dengan data lebih tersebar secara merata di sekitar usia pensiun rata-rata.
 
@@ -1098,7 +1098,7 @@ Secara umum, berikut adalah perbedaan antara data kategorikal univariat dan mult
     Berbeda dengan univariat yang hanya melibatkan satu variabel, data kategorikal multivariat ditujukan pada analisis dua atau lebih variabel kategorikal secara bersamaan untuk memahami hubungan atau interaksi antara variabel-variabel tersebut.  
       
     Sebagai contoh, kita dapat menganalisis **jenis kelamin** dan **preferensi produk** dalam kaitannya dengan **kelompok usia** untuk mengetahui bahwa pria dan wanita dari kelompok usia yang berbeda lebih cenderung memilih produk tertentu.  
-    [![dos-d755def992b8f492fd043f98c90de32720250812160528.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-d755def992b8f492fd043f98c90de32720250812160528.jpeg)]("dos-d755def992b8f492fd043f98c90de32720250812160528.jpeg")  
+    ![dos-d755def992b8f492fd043f98c90de32720250812160528.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-d755def992b8f492fd043f98c90de32720250812160528.jpeg)  
     Dari data tersebut, kita bisa mendapatkan wawasan, seperti pria berusia 20–30 tahun cenderung lebih memilih produk elektronik, sedangkan wanita dalam kelompok usia yang sama lebih suka membeli pakaian. Dengan cara ini, kita bisa menggali lebih banyak wawasan dan pola preferensi yang lebih dalam. Analisis multivariat ini membantu kita memahami kompleksitas data dan mengidentifikasi pola yang tidak dapat terlihat hanya dengan analisis univariat.
 
   
@@ -1175,11 +1175,11 @@ Berikut adalah langkah-langkah sistematis dalam melakukan uji Chi-Square.
     Seperti penjelasan sebelumnya, kita mulai dengan membuat tabel yang menggambarkan kombinasi kategori dari kedua variabel.
 2.  **Menghitung Frekuensi yang Diharapkan (E)**  
     Gunakan rumus berikut untuk menghitung **frekuensi yang diharapkan** pada setiap kombinasi kategori.  
-    [![dos-cb039c1ab4f6eb1ce0a7c66c65d6eb2720250812160750.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-cb039c1ab4f6eb1ce0a7c66c65d6eb2720250812160750.jpeg)]("dos-cb039c1ab4f6eb1ce0a7c66c65d6eb2720250812160750.jpeg")
+    ![dos-cb039c1ab4f6eb1ce0a7c66c65d6eb2720250812160750.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-cb039c1ab4f6eb1ce0a7c66c65d6eb2720250812160750.jpeg)
 
 3.  **Menghitung Nilai Chi-Square (χ²)**  
     Rumus untuk menghitung nilai **Chi-Square** adalah berikut.  
-    [![dos-90ec02036cfa6ad0a191ce3935151e7720250812160755.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-90ec02036cfa6ad0a191ce3935151e7720250812160755.jpeg)]("dos-90ec02036cfa6ad0a191ce3935151e7720250812160755.jpeg")
+    ![dos-90ec02036cfa6ad0a191ce3935151e7720250812160755.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-90ec02036cfa6ad0a191ce3935151e7720250812160755.jpeg)
 
 4.  **Menentukan Nilai P dan Mengambil Keputusan.**  
     Setelah menghitung nilai **Chi-Square**, kita bandingkan dengan **nilai kritis** dari distribusi Chi-Square pada tingkat signifikansi yang telah ditentukan (misalnya, 0.05). Jika nilai Chi-Square lebih besar dari nilai kritis, kita menolak **hipotesis nol** (H₀) dan menyimpulkan bahwa ada **hubungan signifikan** antara kedua variabel. Hubungan signifikan merujuk pada hasil analisis data yang menunjukkan ada efek atau hubungan yang tidak mungkin terjadi hanya karena kebetulan.
@@ -1204,7 +1204,7 @@ Oleh karena itu, analisis multivariat menjadi penting karena memungkinkan kita u
 
 Sebagai contoh, dalam analisis penjualan produk, kita mungkin tertarik untuk mengetahui bahwa harga, pengeluaran iklan, dan musim berhubungan dengan penjualan produk. 
 
-[![dos-2b2125e053189070e8bf5eae5bcb81ef20250812161000.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-2b2125e053189070e8bf5eae5bcb81ef20250812161000.jpeg)]("dos-2b2125e053189070e8bf5eae5bcb81ef20250812161000.jpeg")
+![dos-2b2125e053189070e8bf5eae5bcb81ef20250812161000.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-2b2125e053189070e8bf5eae5bcb81ef20250812161000.jpeg)
 
 Data yang terlihat pada gambar di atas menunjukkan data yang mencakup informasi mengenai harga produk, pengeluaran iklan, musim, dan penjualan produk. Setiap baris mewakili satu periode atau pengamatan dan setiap kolom mewakili variabel berbeda yang relevan dalam analisis ini.
 
@@ -1232,7 +1232,7 @@ Sebagai contoh, jika menganalisis hubungan antara **pendapatan** dan **pengelu
 
 Untuk lebih memperjelas, berikut adalah gambaran visual dari nilai koefisien korelasi dan pengaruh hal itu terhadap data.
 
-[![dos-164cebeb0ea4fcec2f0b4c939c1e79f820250812161000.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-164cebeb0ea4fcec2f0b4c939c1e79f820250812161000.jpeg)]("dos-164cebeb0ea4fcec2f0b4c939c1e79f820250812161000.jpeg")
+![dos-164cebeb0ea4fcec2f0b4c939c1e79f820250812161000.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-164cebeb0ea4fcec2f0b4c939c1e79f820250812161000.jpeg)
 
 Berikut adalah penjelasan interpretasi dari visualisasi koefisien korelasi di atas.
 
@@ -1242,7 +1242,7 @@ Berikut adalah penjelasan interpretasi dari visualisasi koefisien korelasi di at
 
 Untuk menghitung koefisien korelasi Pearson, kita menggunakan rumus berikut.
 
-[![dos-6a6e323f6a83496dd82ee99cbe32d4c820250812161000.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-6a6e323f6a83496dd82ee99cbe32d4c820250812161000.jpeg)]("dos-6a6e323f6a83496dd82ee99cbe32d4c820250812161000.jpeg")
+![dos-6a6e323f6a83496dd82ee99cbe32d4c820250812161000.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-6a6e323f6a83496dd82ee99cbe32d4c820250812161000.jpeg)
 
 #### Penjelasan Kovarians
 
@@ -1252,7 +1252,7 @@ Namun, salah satu kekurangan kovarians adalah bahwa ia tidak memiliki skala teta
 
 Kovarians antara dua variabel X dan Y dihitung dengan rumus berikut.
 
-[![dos-69a45ccfc978563d4bcb330c89024bf520250812161000.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-69a45ccfc978563d4bcb330c89024bf520250812161000.jpeg)]("dos-69a45ccfc978563d4bcb330c89024bf520250812161000.jpeg")
+![dos-69a45ccfc978563d4bcb330c89024bf520250812161000.jpeg](https://assets.cdn.dicoding.com/original/academy/dos-69a45ccfc978563d4bcb330c89024bf520250812161000.jpeg)
 
   
 
