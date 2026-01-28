@@ -1,7 +1,8 @@
 ---
 slug: dummy
-title: Lorem ipsum
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Data Univariat dan Multivariat
+abstract: Menjelaskan konsep dasar dan perbedaan antara data univariat dan multivariat, baik kategorikal maupun kuantitatif, dalam konteks analisis data.
+
 ---
 
 ## Pengantar Matematika untuk Data Science

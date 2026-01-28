@@ -1,7 +1,7 @@
 ---
 slug: dummy2
 title: Dasar-Dasar Probabilitas
-abstract: Mengimplementasikan algoritma Naive Bayes pada kasus klasifikasi sederhana dengan memanfaatkan probabilitas bersyarat
+abstract: Mengimplementasikan algoritma Naive Bayes pada kasus klasifikasi sederhana dengan memanfaatkan probabilitas bersyarat.
 ---
 
 ## Konsep Dasar Probabilitas
