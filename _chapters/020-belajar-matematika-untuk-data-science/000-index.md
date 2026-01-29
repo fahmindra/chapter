@@ -1,4 +1,4 @@
 ---
-slug: dummies
+slug: matematika
 layout: part
 ---
