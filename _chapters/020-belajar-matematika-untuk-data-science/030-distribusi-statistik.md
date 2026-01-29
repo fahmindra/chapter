@@ -1,5 +1,5 @@
 ---
-slug: dummy-3
+slug: matematika-3
 title: Distribusi Statistik
 abstract: Menggunakan metode Monte Carlo berdasarkan distribusi statistik untuk berbagai skenario.
 

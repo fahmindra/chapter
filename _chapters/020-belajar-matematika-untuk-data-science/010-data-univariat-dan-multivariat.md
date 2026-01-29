@@ -1,5 +1,5 @@
 ---
-slug: dummy
+slug: matematika-1
 title: Data Univariat dan Multivariat
 abstract: Menjelaskan konsep dasar dan perbedaan antara data univariat dan multivariat, baik kategorikal maupun kuantitatif, dalam konteks analisis data.
 
