@@ -83,17 +83,13 @@ html {
     }
 
     .book.with-summary .body-inner {
-        width: calc(200% + 315px);
+        width: calc(315px);
     }
 
     .book.with-summary .page-footer {
-        width: calc(200% + 315px);
+        width: calc(315px);
     }
 
-    .page-inner {
-        padding-left: 30px;
-        padding-right: 30px;
-    }
 }
 
 @media (max-width: 1240px) {
