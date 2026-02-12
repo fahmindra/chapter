@@ -83,13 +83,12 @@ html {
     }
 
     .book.with-summary .body-inner {
-        width: calc(315px);
+        width: calc(100% + 315px);
     }
 
     .book.with-summary .page-footer {
-        width: calc(315px);
+        width: calc(100% + 315px);
     }
-
 }
 
 @media (max-width: 1240px) {
