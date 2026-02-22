@@ -1,5 +1,5 @@
 ---
-slug: tbi-1
+slug: tbi-1-t
 title: Tenses
 ---
 

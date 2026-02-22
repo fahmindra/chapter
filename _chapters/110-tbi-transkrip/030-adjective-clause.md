@@ -1,5 +1,5 @@
 ---
-slug: tbi-3
+slug: tbi-3-t
 title: Adjective Clause
 ---
 

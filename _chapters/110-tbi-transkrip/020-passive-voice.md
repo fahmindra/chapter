@@ -1,5 +1,5 @@
 ---
-slug: tbi-2
+slug: tbi-2-t
 title: Passive Voice
 ---
 
