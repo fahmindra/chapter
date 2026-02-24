@@ -3,7 +3,6 @@ slug: tpa-1-t
 title: Verbal
 ---
 
-
 # Strategi Menaklukkan Tes Potensi Akademik (TPA) Subtes Verbal: Sinonim, Antonim, Analogi, dan Kelompok Kata
 
 *(Sesi dibuka dengan pemutaran lagu yang menyuarakan tentang perasaan kesendirian dan penyesalan, menggambarkan seseorang yang memiliki segalanya namun merasa hampa tanpa kehadiran orang tercinta. Lagu tersebut mengalun hingga memulai sesi pertemuan.)*
