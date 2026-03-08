@@ -1,6 +1,6 @@
 ---
 slug: otf-7
-title: Trial Class TPA: Pembahasan TO TPA (Puncak OTF) 
+title: Pembahasan TO TPA 
 ---
 
 # Pembahasan Soal Try Out (TO): Strategi Mengerjakan Numerik, Himpunan, dan Figural

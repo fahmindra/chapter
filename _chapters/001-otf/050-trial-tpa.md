@@ -1,6 +1,6 @@
 ---
 slug: otf-5
-title: Trial Class TPA: Bahas Materi & Cara Cepat
+title: Trial Class TPA
 ---
 
 # Mengupas Tuntas Materi TPA Numerikal SPMB PKN STAN: Strategi dan Pembahasan Soal

@@ -1,6 +1,6 @@
 ---
 slug: otf-4
-title: Trial Class TBI: Bahas Materi & Cara Cepat
+title: Trial Class TBI
 ---
 
 # Strategi Menaklukkan TBI SPMB Tubel STAN: Bedah Soal dan Trik Menjawab Cepat Tanpa Menerjemahkan

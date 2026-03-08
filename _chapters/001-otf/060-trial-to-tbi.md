@@ -1,6 +1,6 @@
 ---
 slug: otf-6
-title: Trial Class TBI: Pembahasan TO TBI & Cara Cepat 
+title: Pembahasan TO TBI 
 ---
 
 # Pembahasan Lengkap Try Out TBI: Strategi Cepat dan Analisis Soal Persiapan Tubel (OTF Hari ke-6)
