@@ -1,0 +1,158 @@
+---
+layout: chapter
+title: "Polynomial Function"
+chapter: "Functions"
+chapter_order: 14
+section_order: 12
+permalink: /materi-algebrica/functions/polynomial-function/
+---
+
+growthextremarootsintegralderivativedifferentiabilitycontinuityshapezerosinterceptsturning pointssymmetryend behaviorstandard formtermsleading coefficientdegreecoefficientsgeneral formanalysisgraphstructure
+
+## Introduction
+
+A polynomial function is a [function](https://algebrica.org/functions/) that consists of [polynomials](https://algebrica.org/polynomials/) expressed in the following form:
+
+$$f \left(\right. x \left.\right) = a_{n} x^{n} + a_{n - 1} x^{n - 1} + \hdots + a_{1} x + a_{0}$$
+
+- $n$ is a non-negative [integer](https://algebrica.org/integers/).
+- The coefficients $a_{0} , a_{1} , \ldots , a_{n}$ are [real numbers](https://algebrica.org/properties-of-real-numbers/), with $a_{n} \neq 0$.
+- The integer $n$ is the degree of the polynomial function
+- $a_{n}$ is the leading coefficient. The term $a_{0}$ is the constant term and coincides with the value of the function at the origin, since $f \left(\right. 0 \left.\right) = a_{0}$.
+
+###### Polynomial functions constitute the simplest and most structurally regular class of real functions. They are defined for every real number, they possess derivatives of all orders, and their graphs are smooth curves without corners, cusps, or discontinuities of any kind.
+
+## Properties
+
+The [domain](https://algebrica.org/determining-the-domain-of-a-function/) of any polynomial function is the entire real line $\mathbb{R}$, since the expression $a_{n} x^{n} + \hdots + a_{0}$ involves only addition and multiplication of real numbers, neither of which imposes any restriction on the input. The range depends on the degree and the sign of the leading coefficient $a_{n}$, and it may be all of $\mathbb{R}$ or an [interval](https://algebrica.org/intervals/) of the form $\left[\right. m , + \infty \left.\right)$ or $\left(\right. - \infty , M \left]\right.$.
+
+The following properties hold for every polynomial function, regardless of its degree.
+
+- Domain: $\mathbb{R}$.
+- A polynomial function is [continuous](https://algebrica.org/continuous-functions/) over all of $\mathbb{R}$.
+- A polynomial function is differentiable over all of $\mathbb{R}$, with [derivatives](https://algebrica.org/derivatives/) of every order.
+- A polynomial function has no [asymptotes](https://algebrica.org/asymptotes/) of any kind, since it is defined and finite for every finite value of $x$, and diverges to infinity as $\left|\right. x \left|\right. \rightarrow + \infty$.
+- The graph of a polynomial function has no corners, cusps, or [discontinuities](https://algebrica.org/discontinuities-of-real-functions/).
+
+## Polynomial function explorer
+
+This interactive graph illustrates how the shape of a polynomial function depends on its degree and the sign of its leading coefficient. By selecting different configurations, one can observe the corresponding changes in end behavior, symmetry, and the number of turning points, providing a direct visual interpretation of the underlying algebraic structure.
+
+---
+
+Degree
+
+1 2 3 4 5
+
+Leading coefficient
+
+a > 0 a < 0
+
+y = x³ − 3x
+
+A cubic function with positive leading coefficient falls to −∞ as x→−∞ and rises to +∞ as x→+∞. It is an odd-degree polynomial, so the two ends point in opposite directions.
+
+## Degree 1: linear functions
+
+A polynomial function of degree 1 takes the form:
+
+$$f \left(\right. x \left.\right) = m x + q$$
+
+where $m \neq 0$ is the slope and $q$ is the y-intercept. Its graph is a straight line. The function is [strictly increasing](https://algebrica.org/increasing-and-decreasing-functions/) when $m > 0$ and strictly decreasing when $m < 0$.
+
+- Domain: $\mathbb{R}$.
+- Range: $\mathbb{R}$.
+- Monotonicity: strictly monotone over $\mathbb{R}$.
+- The function is bijective from $\mathbb{R}$ to $\mathbb{R}$.
+- It has no maximum or minimum points.
+
+## Degree 2: quadratic functions
+
+A polynomial function of degree 2 takes the form:
+
+$$f \left(\right. x \left.\right) = a x^{2} + b x + c$$
+
+where $a \neq 0$. Its graph is a [parabola](https://algebrica.org/parabola/) with vertical axis of symmetry. The vertex of the parabola is located at:
+
+$$x_{v} = - \frac{b}{2 a}$$
+$$y_{v} = f \left(\right. x_{v} \left.\right) = c - \frac{b^{2}}{4 a}$$
+
+- Domain: $\mathbb{R}$.
+- Range: $\left[\right. y_{v} , + \infty \left.\right)$ if $a > 0$; $\left(\right. - \infty , y_{v} \left]\right.$ if $a < 0$.
+- When $a > 0$, the parabola opens upward and the vertex is a global minimum.
+- When $a < 0$, the parabola opens downward and the vertex is a global maximum.
+- The function is not monotone over all of $\mathbb{R}$, but it is strictly monotone on each of the two half-lines separated by the vertex.
+
+## Degree 3: cubic functions
+
+A polynomial function of degree 3 takes the form:
+
+$$f \left(\right. x \left.\right) = a x^{3} + b x^{2} + c x + d$$
+
+where $a \neq 0$. Unlike the quadratic case, a cubic function has no [global maximum or minimum](https://algebrica.org/maximum-minimum-and-inflection-points/).
+
+- Domain: $\mathbb{R}$.
+- Range: $\mathbb{R}$.
+- The function is bijective from $\mathbb{R}$ to $\mathbb{R}$ if and only if it has no local extrema, that is, if its derivative has no real roots.
+- It may have one or two local extrema and exactly one [inflection point](https://algebrica.org/maximum-minimum-and-inflection-points/).
+- Limits at infinity:
+  $$\underset{x \rightarrow - \infty}{lim} f \left(\right. x \left.\right) & = - \infty \text{if} a > 0 \\ \underset{x \rightarrow + \infty}{lim} f \left(\right. x \left.\right) & = + \infty \text{if} a > 0$$
+
+## End behavior
+
+The end behavior of a polynomial function is determined exclusively by its leading term $a_{n} x^{n}$. As $\left|\right. x \left|\right.$ grows without bound, the contributions of all lower-degree terms become negligible in comparison, and the behavior of $f \left(\right. x \left.\right)$ approaches that of the power function $a_{n} x^{n}$. The result depends on two parameters: the parity of $n$ and the sign of $a_{n}$.
+
+When the degree is even, $x^{n}$ is non-negative for all $x$, so both ends of the graph point in the same vertical direction. When the degree is odd, $x^{n}$ changes sign with $x$, and the two ends of the graph point in opposite directions. More precisely:
+
+| Degree $n$ | $a_{n}$ | $\underset{x \rightarrow - \infty}{lim} f \left(\right. x \left.\right)$ | $\underset{x \rightarrow + \infty}{lim} f \left(\right. x \left.\right)$ | $x \rightarrow - \infty$ | $x \rightarrow + \infty$ |
+| --- | --- | --- | --- | --- | --- |
+| even | $> 0$ | $+ \infty$ | $+ \infty$ | $\nwarrow$ | $\nearrow$ |
+| even | $< 0$ | $- \infty$ | $- \infty$ | $\swarrow$ | $\searrow$ |
+| odd | $> 0$ | $- \infty$ | $+ \infty$ | $\swarrow$ | $\nearrow$ |
+| odd | $< 0$ | $+ \infty$ | $- \infty$ | $\nwarrow$ | $\searrow$ |
+
+###### This relationship between the leading term and the global shape of the graph is particularly useful when studying the behavior of functions, as it allows one to predict the qualitative appearance of the curve without performing a complete analysis.
+
+## Symmetry
+
+Polynomial functions may exhibit symmetry with respect to the y-axis or to the origin, depending on the parity of their terms.
+
+- A polynomial function is [even](https://algebrica.org/even-and-odd-functions/) if all of its terms have even degree, meaning that $f \left(\right. - x \left.\right) = f \left(\right. x \left.\right)$ for all $x$. In this case, the graph is symmetric with respect to the y-axis.
+- A polynomial function is odd if all of its terms have odd degree, meaning that $f \left(\right. - x \left.\right) = - f \left(\right. x \left.\right)$ for all $x$, and its graph is symmetric with respect to the origin.
+
+Most polynomial functions are neither even nor odd, since they contain terms of mixed parity. For instance, $f \left(\right. x \left.\right) = x^{3} + x^{2}$ is neither even nor odd.
+
+## Roots and intersections with the axes
+
+A root of a polynomial function is a value $\alpha \in \mathbb{R}$ such that $f \left(\right. \alpha \left.\right) = 0$. Geometrically, the roots correspond to the points where the graph crosses or touches the x-axis. [The Fundamental Theorem of Algebra](https://algebrica.org/roots-of-a-polynomial/) guarantees that every non-constant polynomial has exactly $n$ roots in $\mathbb{C}$, counted with multiplicity. Over $\mathbb{R}$, fewer real roots may be present, as some roots may be complex conjugate pairs.
+
+A root $\alpha$ has multiplicity $k$ if $\left(\right. x - \alpha \left.\right)^{k}$ divides $P \left(\right. x \left.\right)$ but $\left(\right. x - \alpha \left.\right)^{k + 1}$ does not. The multiplicity determines the local behavior of the graph near the root.
+
+- If $k$ is odd, the graph crosses the x-axis at $x = \alpha$.
+- If $k$ is even, the graph is tangent to the x-axis at $x = \alpha$ and does not cross it.
+
+The y-intercept is always $\left(\right. 0 , a_{0} \left.\right)$, since $f \left(\right. 0 \left.\right) = a_{0}$.
+
+## Derivative and integral of a polynomial function
+
+The [derivative](https://algebrica.org/derivatives/) of a polynomial function is computed term by term by applying the power rule. For the general monomial $a_{k} x^{k}$, the rule gives:
+
+$$\frac{d}{d x} \left(\right. a_{k} x^{k} \left.\right) = k a_{k} x^{k - 1}$$
+
+Applying this to the full polynomial yields:
+
+$$f^{'} \left(\right. x \left.\right) = n a_{n} x^{n - 1} + \left(\right. n - 1 \left.\right) a_{n - 1} x^{n - 2} + \hdots + a_{1}$$
+
+The derivative is a polynomial of degree $n - 1$, and the constant term disappears since the derivative of a constant is zero. A polynomial function is infinitely differentiable over $\mathbb{R}$. The derivative of a polynomial function of degree $n$ is itself a polynomial function of degree $n - 1$, and this operation can be repeated until the zero polynomial is reached.
+
+---
+
+The [indefinite integral](https://algebrica.org/indefinite-integrals/) of a polynomial function is computed by applying the power rule for integration to each term:
+
+$$\int x^{k} d x = \frac{x^{k + 1}}{k + 1} + c$$
+
+Integrating the full polynomial gives:
+
+$$\int f \left(\right. x \left.\right) d x = \frac{a_{n}}{n + 1} x^{n + 1} + \frac{a_{n - 1}}{n} x^{n} + \hdots + a_{1} x + a_{0} x + c$$
+
+where $c \in \mathbb{R}$ is the constant of integration. The result is a polynomial of degree $n + 1$.

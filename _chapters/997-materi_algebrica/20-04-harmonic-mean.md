@@ -1,0 +1,70 @@
+---
+layout: chapter
+title: "Harmonic Mean"
+chapter: "Probability and Statistics"
+chapter_order: 20
+section_order: 4
+permalink: /materi-algebrica/probability-and-statistics/harmonic-mean/
+---
+
+## What is the harmonic mean?
+
+The **harmonic mean** belongs to the broader family of power [means](https://algebrica.org/introduction-to-the-mean/) and plays a distinctive role whenever the data being analyzed combine reciprocally rather than additively. Instead of summing the observations, it takes the reciprocal of each value, computes their arithmetic mean, and then takes the reciprocal of that result.
+
+This mean is particularly appropriate when averaging rates, ratios, or speeds, such as velocity, cost per unit, or productivity, cases where smaller values exert a stronger influence on the overall balance. While the [arithmetic mean](https://algebrica.org/arithmetic-mean) emphasizes larger [numbers](https://algebrica.org/types-of-numbers/), the harmonic mean highlights the contribution of smaller ones, providing a more accurate picture when the data vary inversely with respect to a fixed total.
+
+---
+
+In general form, the harmonic mean is expressed as:
+
+$$M_{- 1} = \frac{n}{\sum_{i = 1}^{n} \frac{1}{x_{i}}}$$
+
+where $x_{1} , x_{2} , \ldots , x_{n}$ are the observed positive values and $n$ is the total number of elements in the dataset.
+
+- The harmonic mean gives greater weight to smaller values, making it suitable for datasets based on rates or proportional quantities.
+- It can only be calculated for positive, non-zero values because it involves taking the reciprocal of each observation.
+- It is always less than or equal to the [geometric mean](https://algebrica.org/geometric-mean), which in turn is less than or equal to the arithmetic mean.
+- When data represent uniform measures of work or distance completed at varying speeds, the harmonic mean expresses the true average rate more accurately than other means.
+
+##### The harmonic mean is often denoted as $M_{- 1}$ because it represents a specific case within the [Hölder mean family](https://algebrica.org/introduction-to-the-mean) (or power means), corresponding to the exponent ( s = -1 ).
+
+## Example 1
+
+To understand how the harmonic mean works in practice, let’s look at a simple situation involving average speed. Imagine a car that travels a road divided into two equal segments:
+
+- On the first half, the car moves at 60 km/h.
+- On the second half, it moves faster, at 90 km/h.
+
+Even though the distance is the same, the time spent on each part of the trip is not. Because the slower speed takes more time, it has a greater influence on the overall average. That’s why using the arithmetic mean $\left(\right. 75 \text{km}/\text{h} \left.\right)$ would give a misleading result, the correct approach is the harmonic mean.
+
+Substituting the two speed values to the formula we obtain:
+
+$$M_{- 1} = \frac{2}{\frac{1}{60} + \frac{1}{90}} = \frac{2}{\frac{5}{180}} = \frac{360}{5} = 72$$
+
+##### The harmonic mean accurately represents the true average rate when distances are equal, because it reflects the additional time spent at lower speeds. Its formulation captures the reciprocal relationship between the variables, recognizing that time varies inversely with velocity. In essence, the harmonic mean describes balance within rate-based or proportional data, offering a precise and unbiased measure whenever the values being averaged represent performance, efficiency, or speed rather than direct quantities.
+
+Therefore, the harmonic mean speed for the trip is:
+
+$$M_{h} = 72 \text{km}/\text{h}$$
+
+## Example 2
+
+Consider a scenario involving a machine that operates at different production rates over five equal time periods. Each period lasts the same amount of time, but the output rate, measured in units per minute, changes due to varying efficiency or workload conditions.
+
+| Period | Rate (units/minute) |
+| --- | --- |
+| 1 | 10 |
+| 2 | 12 |
+| 3 | 8 |
+| 4 | 15 |
+| 5 | 9 |
+
+Since each interval has the same duration, the correct way to find the overall average rate is through the harmonic mean, not the arithmetic one. This is because the slower periods have a stronger impact on the final result, reflecting the inverse relationship between time and rate.
+
+Substituting the observed values we obtain:
+
+$$M_{- 1} & = \frac{5}{\frac{1}{10} + \frac{1}{12} + \frac{1}{8} + \frac{1}{15} + \frac{1}{9}} \\ & = \frac{5}{0.1 + 0.0833 + 0.125 + 0.0667 + 0.1111} \\ & = \frac{5}{0.4861} \approx 10.29$$
+
+Hence, the harmonic mean rate of production is approximately:
+
+$$M_{- 1} \approx 10.3 \text{units per minute}$$
